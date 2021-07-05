@@ -2,7 +2,8 @@
 - 👀 I’m interested in Graph databases
 - 📫 How to reach me 
   - blog : https://github.com/EnglishSid/Blog
-  - Twitter @ThatDaveStevens
+  - data stories : https://englishsid.github.io/DataStories/
+  - Twitter : https://twitter.com/ThatDaveStevens
 
 <!---
 EnglishSid/EnglishSid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

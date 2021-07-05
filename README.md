@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EnglishSid
 - 👀 I’m interested in Graph databases
 - 📫 How to reach me 
--   Twitter @ThatDaveStevens
+  - blog : https://github.com/EnglishSid/Blog
+  - Twitter @ThatDaveStevens
 
 <!---
 EnglishSid/EnglishSid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

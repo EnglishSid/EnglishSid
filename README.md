@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnglishSid
+- 👋 Hi, I’m Dave Stevens @EnglishSid, a Customer Success Manager at Neo4j.com
 - 👀 I’m interested in Graph databases
 - 📫 How to reach me 
   - blog : https://github.com/EnglishSid/Blog
